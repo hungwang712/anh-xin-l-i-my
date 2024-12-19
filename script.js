@@ -1,4 +1,5 @@
 function showForgiveness() {
     const forgivenessMessage = document.getElementById("forgiveness-message");
-    forgivenessMessage.textContent = "Cảm ơn my, to sẽ luôn cố gắng để không làm cau buồn";
+    forgivenessMessage.textContent = "Cảm ơn cậu , tớ hứa sẽ không có lần sauuu";
+    forgivenessMessage.classList.add("forgiveness-message-visible");
 }
