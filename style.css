@@ -1,6 +1,6 @@
 /* Cài đặt font chữ đẹp từ Google Fonts */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'comic neue', sans-serif;
     background: linear-gradient(135deg, #f3ec78, #af4261);
     color: #333;
     margin: 0;
@@ -21,15 +21,15 @@ body {
 
 .card {
     background-color: white;
-    padding: 40px;
-    border-radius: 15px;
+    padding: 30px;
+    border-radius: 8px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
+    max-width: 400px;
     width: 100%;
 }
 
 .headline {
-    font-size: 36px;
+    font-size: 25px;
     font-weight: 600;
     color: #e74c3c;
     margin-bottom: 20px;
@@ -55,7 +55,7 @@ body {
 }
 
 .forgive-button:hover {
-    background-color: #2980b9;
+    background-color: #ff9833;
 }
 
 #forgiveness-message {
